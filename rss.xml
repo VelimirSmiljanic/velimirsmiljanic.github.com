@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+		<channel>
+		<item>
+			<title>Stara planina</title>
+			<description>informacije o Staroj planini</description>
+			<link>https://velimirsmiljanic.github.io/staraplanina.html</link>
+		</item>  
+		<item>
+			<title>Dag banjica</title>
+			<description>Informacije o Dag banjici</description>
+			<link>https://velimirsmiljanic.github.io/dagbanjica.html</link>
+		</item>
+	</channel>
+</rss>
